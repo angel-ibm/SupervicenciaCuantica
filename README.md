@@ -1,4 +1,4 @@
-# Guía de supervivencia de computación cuántica
+# Guía de supervivencia para la computación cuántica
 
 ## Indice de contenidos
 
